@@ -18,8 +18,3 @@ An enterprise-inspired console application designed to execute administrative CR
 * **Design Pattern:** State Pattern (Gang of Four Behavioral Design)
 * **Core Functions:** Role Authentication, Persistent Cache Handling, Context-Aware Screen Routing
 * **Methodology:** Component Decoupling & Modular Architecture
-
----
-
-## The Portfolio Connection (Architectural Foundation)
-This project highlights a mature understanding of high-level software engineering design patterns and decoupled system architecture. The structural expertise developed here regarding state validation, runtime flow alteration, and boundary sanitization bridges directly into cybersecurity—specifically when analyzing how finite state machines handle network handshake transitions, session management, and parsing engine validation rules.
