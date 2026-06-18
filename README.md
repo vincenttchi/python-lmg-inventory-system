@@ -1,6 +1,6 @@
 # Project LMG: State-Driven Console Inventory Management System (IMS)
 
-An enterprise-inspired console application designed to execute administrative CRUD operations, role-based access control (RBAC), and persistent data management utilizing a strict Object-Oriented State Design Pattern.
+An enterprise-inspired console application designed to execute administrative CRUD operations and persistent data management utilizing a strict Object-Oriented State Design Pattern.
 
 ---
 
